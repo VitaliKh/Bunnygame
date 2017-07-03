@@ -1,0 +1,7 @@
+.DS_Store
+*.db
+*.log
+.yo-rc.json
+node_modules/
+.idea
+
